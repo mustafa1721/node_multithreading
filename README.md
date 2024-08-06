@@ -17,7 +17,7 @@ Install node_multithreading_example with npm
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/mustafa1721/node_multithreading.git
 ```
 
 Go to the project directory
